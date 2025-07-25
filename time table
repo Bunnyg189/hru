@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>
+        table,th,td{
+            border:3px solid black;
+        }
+    </style>
+    <body>
+        <h1>TIME TABLE</h1>
+        <table>
+            <tr>
+                <th>Time</th>
+                <th>subjects</th>
+            </tr>
+
+            <tr>
+                <td>9:10-10:10</td>
+                <td>computer networks</td>
+            </tr>
+            <tr>
+                <td>10:10-11:10</td>
+                <td>F.L.A.T</td>
+            </tr>
+            <tr>
+                <td>11:10-12:10</td>
+                <td>EAD Lab</td>
+            </tr>
+            <tr>
+                <td>12:10-1:00</td>
+                <td>lunch</td>
+            </tr>
+            <tr>
+                <td>1:00-2:00</td>
+                <td>EAD Lab</td>
+            </tr>
+            <tr>
+                <td>2:00-3:00</td>
+                <td>Software engineering</td>
+            </tr>
+            <tr>
+                <td>3:00-4:00</td>
+                <td>EAD</td>
+            </tr> 
+            
+        </table>
+    </body>
+</html>
